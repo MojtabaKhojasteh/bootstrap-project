@@ -1,0 +1,21 @@
+.navbar {
+  background-color: var(--mainWhite);
+}
+
+.nav-icon,
+.navbar-icon {
+  font-size: 1.5rem;
+  color: var(--mainBlue);
+}
+.nav-icon:hover {
+  color: var(--mainBlack);
+}
+
+.nav-link {
+  color: var(--mainBlack);
+  text-transform: capitalize;
+}
+
+.nav-link:hover {
+  color: var(--mainBlue);
+}
