@@ -1,0 +1,55 @@
+.header {
+  clip-path: polygon(0 0, 100% 0, 100% 0, 100% 95%, 50% 100%, 0 95%);
+  color: var(--mainWhite);
+  overflow: hidden;
+}
+.height-max {
+  height: 100vh;
+  background: url("./img/headerBcg.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  /* animation */
+  animation-name: zoom;
+  animation-duration: 20s;
+  animation-delay: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2) translateX(-5%);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.title-heading {
+  background: rgb(0, 0, 0, 0.4);
+  border-left: 0.3rem solid var(--mainBlue);
+}
+
+.title {
+  font-size: 1.9rem;
+  font-weight: 700;
+}
+
+@media screen and (min-width: 768px) {
+  .title {
+    font-size: 3rem;
+  }
+}
+
+.title-icon {
+  color: var(--mainBlue);
+  text-decoration: none;
+}
+.title-icon:hover {
+  color: var(--mainBlue);
+  opacity: 0.6;
+}
