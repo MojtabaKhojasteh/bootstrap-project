@@ -4,6 +4,7 @@ import Header from "../components/Header";
 import "../App.css";
 import Skills from "../components/Skills";
 import Inventory from "../components/Inventory";
+import Question from "../components/Question";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Header />
       <Skills />
       <Inventory />
+      <Question />
     </Fragment>
   );
 };
