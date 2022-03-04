@@ -1,0 +1,47 @@
+.featured {
+  background: var(--mainGrey);
+}
+
+.featured-item {
+  background: var(--mainWhite);
+  border-radius: 0.5rem;
+  opacity: 0.5;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+
+.featured-item:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+.featured-icon {
+  color: var(--mainBlue);
+}
+
+.featured-img {
+  position: relative;
+  overflow: hidden;
+}
+.featured-photo {
+  transition: all 1s ease-in-out;
+}
+
+.featured-img:hover .featured-photo {
+  transform: scale(1.3);
+  opacity: 0.5;
+}
+
+.featured-link {
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  color: var(--mainBlack);
+  opacity: 0;
+}
+.featured-link:hover {
+  color: var(--mainWhite);
+}
+.featured-img:hover .featured-link {
+  opacity: 1;
+}

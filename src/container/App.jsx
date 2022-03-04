@@ -5,6 +5,7 @@ import "../App.css";
 import Skills from "../components/Skills";
 import Inventory from "../components/Inventory";
 import Question from "../components/Question";
+import Featured from "../components/Featured";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Skills />
       <Inventory />
       <Question />
+      <Featured />
     </Fragment>
   );
 };
