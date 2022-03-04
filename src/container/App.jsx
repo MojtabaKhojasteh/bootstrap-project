@@ -7,6 +7,7 @@ import Inventory from "../components/Inventory";
 import Question from "../components/Question";
 import Featured from "../components/Featured";
 import Gallery from "../components/Gallery";
+import Contact from "../components/Contact";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Question />
       <Featured />
       <Gallery />
+      <Contact />
     </Fragment>
   );
 };
