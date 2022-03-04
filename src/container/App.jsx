@@ -6,6 +6,7 @@ import Skills from "../components/Skills";
 import Inventory from "../components/Inventory";
 import Question from "../components/Question";
 import Featured from "../components/Featured";
+import Gallery from "../components/Gallery";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <Inventory />
       <Question />
       <Featured />
+      <Gallery />
     </Fragment>
   );
 };
