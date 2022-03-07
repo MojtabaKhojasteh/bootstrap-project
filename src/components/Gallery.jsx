@@ -1,5 +1,5 @@
 import React from "react";
-import "../Gallery.css";
+import "./Gallery.css";
 import carAmerican1 from "../img/car-american-1.jpeg";
 import carAmerican2 from "../img/car-american-2.jpeg";
 import carAmerican3 from "../img/car-american-3.jpeg";

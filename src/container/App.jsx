@@ -8,6 +8,7 @@ import Question from "../components/Question";
 import Featured from "../components/Featured";
 import Gallery from "../components/Gallery";
 import Contact from "../components/Contact";
+import Services from "../components/Services";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Featured />
       <Gallery />
       <Contact />
+      <Services />
     </Fragment>
   );
 };

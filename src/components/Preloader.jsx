@@ -1,6 +1,6 @@
 import React from "react";
 import preloaderImage from "../img/preloader.gif";
-import "../Preloader.css";
+import "./Preloader.css";
 
 const Preloader = () => {
   window.addEventListener("load", () =>

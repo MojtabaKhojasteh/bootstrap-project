@@ -5,7 +5,7 @@ import carGermany3 from "../img/car-german-3.jpeg";
 import carAmerican1 from "../img/car-american-1.jpeg";
 import carAmerican2 from "../img/car-american-2.jpeg";
 import carAmerican3 from "../img/car-american-3.jpeg";
-import "../Inventory.css";
+import "./Inventory.css";
 
 const Inventory = () => {
   return (

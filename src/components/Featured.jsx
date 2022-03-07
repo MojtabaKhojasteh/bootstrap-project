@@ -1,5 +1,5 @@
 import React from "react";
-import "../Featured.css";
+import "./Featured.css";
 import imgFeatured from "../img/featured.jpeg";
 
 const Featured = () => {

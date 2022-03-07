@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../img/gearLogo.png";
-import "../Navbar.css";
+import "./Navbar.css";
 
 const Navbar = () => {
   return (

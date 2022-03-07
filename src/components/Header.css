@@ -5,7 +5,7 @@
 }
 .height-max {
   height: 100vh;
-  background: url("./img/headerBcg.jpeg");
+  background: url("../img/headerBcg.jpeg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
