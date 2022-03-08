@@ -10,6 +10,7 @@ import Gallery from "../components/Gallery";
 import Contact from "../components/Contact";
 import Services from "../components/Services";
 import Quotes from "../components/Quotes";
+import Footer from "../components/Footer";
 
 const App = () => {
   return (
@@ -24,6 +25,7 @@ const App = () => {
       <Contact />
       <Services />
       <Quotes />
+      <Footer />
     </Fragment>
   );
 };
