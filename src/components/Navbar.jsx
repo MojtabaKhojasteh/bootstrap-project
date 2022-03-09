@@ -28,22 +28,22 @@ const Navbar = () => {
           <ul className="navbar-nav mx-auto ">
             <li className="nav-item active">
               <a href="a.html" className="nav-link">
-                Home
+                خانه
               </a>
             </li>
             <li className="nav-item ">
               <a href="a.html" className="nav-link">
-                Skills
+                مهارت ها
               </a>
             </li>
             <li className="nav-item ">
               <a href="a.html" className="nav-link">
-                Inventory
+                فهرست
               </a>
             </li>
             <li className="nav-item ">
               <a href="a.html" className="nav-link">
-                Featured
+                ویژه
               </a>
             </li>
           </ul>

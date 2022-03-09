@@ -7,10 +7,10 @@ const Skills = () => {
       <div className="container">
         <div className="row mb-5">
           <div className="col d-flex  flex-wrap text-uppercase justify-content-center">
+            <h1 className="section-title-special mx-1">چرا؟</h1>
             <h1 className="font-weight-bold align-self-center mx-1 ">
-              why choose
+              فروشگاه ما
             </h1>
-            <h1 className="section-title-special mx-1">car dealer</h1>
           </div>
         </div>
         <div className="row">
@@ -18,11 +18,13 @@ const Skills = () => {
             <a className="skills-icon p-2 rounded-circle" href="a.html">
               <i class="fa fa-car" aria-hidden="true"></i>
             </a>
-            <h6 className="text-uppercase font-weight-bold my-3">all brands</h6>
+            <h6 className="text-uppercase font-weight-bold my-3">
+              تمامی مدل ها
+            </h6>
             <div className="skills-underline"></div>
             <p className="w-75 mx-auto text-muted">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reprehenderit, id.
+              لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+              استفاده از طراحان گرافیک است.
             </p>
           </div>
 
@@ -31,12 +33,12 @@ const Skills = () => {
               <i class="fa fa-comment" aria-hidden="true"></i>
             </a>
             <h6 className="text-uppercase font-weight-bold my-3">
-              free support
+              پشتیبانی رایگان
             </h6>
             <div className="skills-underline"></div>
             <p className="w-75 mx-auto text-muted">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reprehenderit, id.
+              لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+              استفاده از طراحان گرافیک است.
             </p>
           </div>
 
@@ -44,11 +46,11 @@ const Skills = () => {
             <a className="skills-icon p-2 rounded-circle" href="a.html">
               <i class="fa fa-truck" aria-hidden="true"></i>
             </a>
-            <h6 className="text-uppercase font-weight-bold my-3">caring</h6>
+            <h6 className="text-uppercase font-weight-bold my-3">مراقبت</h6>
             <div className="skills-underline"></div>
             <p className="w-75 mx-auto text-muted">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reprehenderit, id.
+              لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+              استفاده از طراحان گرافیک است.
             </p>
           </div>
 
@@ -56,11 +58,13 @@ const Skills = () => {
             <a className="skills-icon p-2 rounded-circle" href="a.html">
               <i class="fa fa-google-wallet" aria-hidden="true"></i>
             </a>
-            <h6 className="text-uppercase font-weight-bold my-3">affordable</h6>
+            <h6 className="text-uppercase font-weight-bold my-3">
+              مقرون به صرفه
+            </h6>
             <div className="skills-underline"></div>
             <p className="w-75 mx-auto text-muted">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reprehenderit, id.
+              لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+              استفاده از طراحان گرافیک است.
             </p>
           </div>
         </div>

@@ -14,10 +14,10 @@ const Quotes = () => {
         {/* Title */}
         <div className="row my-5">
           <div className="col-10 d-flex flex-wrap mx-auto text-uppercase justify-content-center">
+            <h1 className="section-title-special mx-1">مشتریان</h1>
             <h1 className="font-weight-bold align-self-center mx-1">
-              what they
+              چه می گویند
             </h1>
-            <h1 className="section-title-special mx-1">say</h1>
           </div>
         </div>
         {/* /Title */}
@@ -33,14 +33,12 @@ const Quotes = () => {
                   className="rounded-circle customer-img"
                 />
                 <h4 class="card-title text-capitalize customer-name">
-                  customer name
+                  نام مشتری
                 </h4>
-                <p class="card-text text-capitalize customer-job">
-                  customer job
-                </p>
+                <p class="card-text text-capitalize customer-job">شغل مشتری</p>
                 <p className="customer-quote">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Sint, tempore?
+                  لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                  استفاده از طراحان گرافیک است.
                 </p>
                 <span className="customer-icon">
                   <i class="fas fa-quote-left"></i>
@@ -59,14 +57,12 @@ const Quotes = () => {
                   className="rounded-circle customer-img"
                 />
                 <h4 class="card-title text-capitalize customer-name">
-                  customer name
+                  نام مشتری
                 </h4>
-                <p class="card-text text-capitalize customer-job">
-                  customer job
-                </p>
+                <p class="card-text text-capitalize customer-job">شغل مشتری</p>
                 <p className="customer-quote">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Sint, tempore?
+                  لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                  استفاده از طراحان گرافیک است.
                 </p>
                 <span className="customer-icon">
                   <i class="fas fa-quote-left"></i>
@@ -84,14 +80,12 @@ const Quotes = () => {
                   className="rounded-circle customer-img"
                 />
                 <h4 class="card-title text-capitalize customer-name">
-                  customer name
+                  نام مشتری
                 </h4>
-                <p class="card-text text-capitalize customer-job">
-                  customer job
-                </p>
+                <p class="card-text text-capitalize customer-job">شغل مشتری</p>
                 <p className="customer-quote">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                  Sint, tempore?
+                  لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                  استفاده از طراحان گرافیک است.
                 </p>
                 <span className="customer-icon">
                   <i class="fas fa-quote-left"></i>

@@ -13,21 +13,21 @@ const Inventory = () => {
       <div className="container">
         <div className="row mb-5">
           <div className="col d-flex  flex-wrap text-uppercase justify-content-center">
-            <h1 className="font-weight-bold align-self-center mx-1 ">our</h1>
-            <h1 className="section-title-special mx-1">inventory</h1>
+            <h1 className="section-title-special mx-1">فهرست</h1>
+            <h1 className="font-weight-bold align-self-center mx-1 ">ما</h1>
           </div>
         </div>
 
         <div className="row mb-5">
           <div className="col-10 d-flex justify-content-end">
             <button className="btn btn-outline-secondary text0uppercase mx-1">
-              all
+              همه
             </button>
             <button className="btn btn-outline-secondary text0uppercase mx-1">
-              american
+              آمریکایی
             </button>
             <button className="btn btn-outline-secondary text0uppercase mx-1">
-              germany
+              آلمانی
             </button>
           </div>
         </div>
@@ -39,8 +39,10 @@ const Inventory = () => {
               <div className="card-body">
                 <div className="car-info d-flex justify-content-between">
                   <div className="car-text text-uppercase">
-                    <h6 className="card-title font-weight-bold">car maker</h6>
-                    <h6 className="card-text">model</h6>
+                    <h6 className="card-title font-weight-bold">
+                      سازنده خودرو
+                    </h6>
+                    <h6 className="card-text float-right">مدل</h6>
                   </div>
                   <h5 className="car-value align-self-center py-2 px-3">
                     <span className="car-price">$ 10,000</span>
@@ -51,13 +53,13 @@ const Inventory = () => {
                     <span>
                       <i class="fa fa-car" aria-hidden="true"></i>
                     </span>
-                    sedan
+                    سدان
                   </p>
                   <p>
                     <span>
                       <i class="fa fa-cogs" aria-hidden="true"></i>
                     </span>
-                    automatic
+                    اتوماتیک
                   </p>
                   <p>
                     <span>
@@ -76,8 +78,11 @@ const Inventory = () => {
               <div className="card-body">
                 <div className="car-info d-flex justify-content-between">
                   <div className="car-text text-uppercase">
-                    <h6 className="card-title font-weight-bold">car maker</h6>
-                    <h6 className="card-text">model</h6>
+                    <h6 className="card-title font-weight-bold">
+                      {" "}
+                      سازنده خودرو
+                    </h6>
+                    <h6 className="card-text float-right">مدل</h6>
                   </div>
                   <h5 className="car-value align-self-center py-2 px-3">
                     <span className="car-price">$ 10,000</span>
@@ -88,13 +93,13 @@ const Inventory = () => {
                     <span>
                       <i class="fa fa-car" aria-hidden="true"></i>
                     </span>
-                    sedan
+                    سدان
                   </p>
                   <p>
                     <span>
                       <i class="fa fa-cogs" aria-hidden="true"></i>
                     </span>
-                    automatic
+                    اتوماتیک
                   </p>
                   <p>
                     <span>
@@ -112,8 +117,11 @@ const Inventory = () => {
               <div className="card-body">
                 <div className="car-info d-flex justify-content-between">
                   <div className="car-text text-uppercase">
-                    <h6 className="card-title font-weight-bold">car maker</h6>
-                    <h6 className="card-text">model</h6>
+                    <h6 className="card-title font-weight-bold">
+                      {" "}
+                      سازنده خودرو
+                    </h6>
+                    <h6 className="card-text float-right">مدل</h6>
                   </div>
                   <h5 className="car-value align-self-center py-2 px-3">
                     <span className="car-price">$ 10,000</span>
@@ -124,13 +132,13 @@ const Inventory = () => {
                     <span>
                       <i class="fa fa-car" aria-hidden="true"></i>
                     </span>
-                    sedan
+                    سدان
                   </p>
                   <p>
                     <span>
                       <i class="fa fa-cogs" aria-hidden="true"></i>
                     </span>
-                    automatic
+                    اتوماتیک
                   </p>
                   <p>
                     <span>
@@ -148,8 +156,11 @@ const Inventory = () => {
               <div className="card-body">
                 <div className="car-info d-flex justify-content-between">
                   <div className="car-text text-uppercase">
-                    <h6 className="card-title font-weight-bold">car maker</h6>
-                    <h6 className="card-text">model</h6>
+                    <h6 className="card-title font-weight-bold">
+                      {" "}
+                      سازنده خودرو
+                    </h6>
+                    <h6 className="card-text float-right">مدل</h6>
                   </div>
                   <h5 className="car-value align-self-center py-2 px-3">
                     <span className="car-price">$ 10,000</span>
@@ -160,13 +171,13 @@ const Inventory = () => {
                     <span>
                       <i class="fa fa-car" aria-hidden="true"></i>
                     </span>
-                    sedan
+                    سدان
                   </p>
                   <p>
                     <span>
                       <i class="fa fa-cogs" aria-hidden="true"></i>
                     </span>
-                    automatic
+                    اتوماتیک
                   </p>
                   <p>
                     <span>
@@ -184,8 +195,11 @@ const Inventory = () => {
               <div className="card-body">
                 <div className="car-info d-flex justify-content-between">
                   <div className="car-text text-uppercase">
-                    <h6 className="card-title font-weight-bold">car maker</h6>
-                    <h6 className="card-text">model</h6>
+                    <h6 className="card-title font-weight-bold">
+                      {" "}
+                      سازنده خودرو
+                    </h6>
+                    <h6 className="card-text float-right">مدل</h6>
                   </div>
                   <h5 className="car-value align-self-center py-2 px-3">
                     <span className="car-price">$ 10,000</span>
@@ -196,13 +210,13 @@ const Inventory = () => {
                     <span>
                       <i class="fa fa-car" aria-hidden="true"></i>
                     </span>
-                    sedan
+                    سدان
                   </p>
                   <p>
                     <span>
                       <i class="fa fa-cogs" aria-hidden="true"></i>
                     </span>
-                    automatic
+                    اتوماتیک
                   </p>
                   <p>
                     <span>
@@ -220,8 +234,11 @@ const Inventory = () => {
               <div className="card-body">
                 <div className="car-info d-flex justify-content-between">
                   <div className="car-text text-uppercase">
-                    <h6 className="card-title font-weight-bold">car maker</h6>
-                    <h6 className="card-text">model</h6>
+                    <h6 className="card-title font-weight-bold">
+                      {" "}
+                      سازنده خودرو
+                    </h6>
+                    <h6 className="card-text float-right">مدل</h6>
                   </div>
                   <h5 className="car-value align-self-center py-2 px-3">
                     <span className="car-price">$ 10,000</span>
@@ -232,13 +249,13 @@ const Inventory = () => {
                     <span>
                       <i class="fa fa-car" aria-hidden="true"></i>
                     </span>
-                    sedan
+                    سدان
                   </p>
                   <p>
                     <span>
                       <i class="fa fa-cogs" aria-hidden="true"></i>
                     </span>
-                    automatic
+                    اتوماتیک
                   </p>
                   <p>
                     <span>

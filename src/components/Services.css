@@ -40,7 +40,7 @@
 .service:hover {
   background: var(--mainWhite);
   color: var(--mainBlack);
-  padding-left: 2.5rem !important;
+  padding-right: 2.5rem !important;
 }
 
 .service-icon {

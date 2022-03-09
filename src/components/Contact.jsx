@@ -15,13 +15,13 @@ const Contact = () => {
                   class="form-control p-3 contact-input"
                   name="contact-email"
                   id="contact-email"
-                  placeholder="Enter Email"
+                  placeholder="ایمیل را وارد کنید"
                 />
                 <button
                   type="submit"
                   class="btn btn-outline-secondary btn-block contact-button"
                 >
-                  Submit
+                  ارسال
                 </button>
               </div>
             </form>

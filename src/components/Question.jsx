@@ -3,7 +3,7 @@ import "./Question.css";
 
 const Question = () => {
   return (
-    <div className="question py-5" id="question">
+    <div className="question py-5 rtl" id="question">
       <div className="container">
         <div className="row">
           <div className="col-10 mx-auto my-2 col-md-6 d-flex justify-content-center question-gray p-4">
@@ -12,11 +12,11 @@ const Question = () => {
             </a>
             <div className="question-text w-75">
               <h4 className="question-title font-weight-bold">
-                Are You Looking For A Car?
+                دنبال ماشین می گردی؟
               </h4>
               <p className="question-info">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Sapiente, impedit.
+                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                استفاده از طراحان گرافیک است.
               </p>
             </div>
           </div>
@@ -27,11 +27,11 @@ const Question = () => {
             </a>
             <div className="question-text w-75">
               <h4 className="question-title font-weight-bold">
-                Do You Want To Sell A Car{" "}
+                می خوای ماشین بفروشی؟
               </h4>
               <p className="question-info">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Sapiente, impedit.
+                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                استفاده از طراحان گرافیک است.
               </p>
             </div>
           </div>

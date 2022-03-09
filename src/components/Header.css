@@ -31,7 +31,7 @@
 }
 .title-heading {
   background: rgb(0, 0, 0, 0.4);
-  border-left: 0.3rem solid var(--mainBlue);
+  border-right: 0.3rem solid var(--mainBlue);
 }
 
 .title {

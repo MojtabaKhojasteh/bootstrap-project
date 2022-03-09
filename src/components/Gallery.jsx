@@ -12,8 +12,8 @@ const Gallery = () => {
       <div className="container">
         <div className="row mb-5">
           <div className="col-10 d-flex flex-wrap mx-auto text-uppercase justify-content-center">
-            <h1 className="font-weight-bold align-self-center mx-1">Our</h1>
-            <h1 className="section-title-special mx-1">gallery</h1>
+            <h1 className="section-title-special mx-1">گالری</h1>
+            <h1 className="font-weight-bold align-self-center mx-1">ما</h1>
           </div>
         </div>
         <div className="row">

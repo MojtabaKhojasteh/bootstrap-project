@@ -8,8 +8,17 @@
   --mainYellow: #e3b505;
 }
 
+@font-face {
+  font-family: "BYekan";
+  src: url("../fonts/BYekan-webfont.eot") format("eot");
+  src: url("../fonts/BYekan-webfont.ttf") format("truetype");
+  src: url("../fonts/BYekan-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-  font-family: "Roboto", "sans-serif";
+  font-family: BYekan;
   color: var(--mainBlack);
   background-color: var(--mainWhite);
 }
